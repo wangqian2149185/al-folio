@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Biophysicist & Bio-AI Researcher. Advancing protein science through structure, modeling, and machine learning.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Qian.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room: 6S-244</p>
+    <p>2800 Victory Boulevard</p>
+    <p>Staten Island, NY 10314</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Qian Wang is a scientist in biochemistry and biophysics, with a focus on protein science and the intersection of biology with artificial intelligence. His research explores how proteins function at the atomic level, integrating advanced NMR spectroscopy, structural modeling, and machine learning approaches to uncover new insights into protein dynamics and molecular mechanisms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With a Ph.D. in Biochemistry and extensive postdoctoral training, Qian has developed a strong track record of executing complex projects — from experimental protein biophysics to computational modeling. He is recognized for his ability to translate challenging scientific questions into actionable research strategies, and for bringing together traditional wet-lab expertise with modern AI-driven tools.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond technical expertise, Qian is highly regarded by colleagues for being goal-oriented, reliable, and collaborative. He thrives in multidisciplinary teams, values open communication, and is always ready to learn new methods when the project demands it. Known for his creative problem-solving and skill migration across fields, he often contributes solutions that bridge the gap between experimental biology and computational innovation.
+
+Qian is deeply motivated by applying his knowledge of protein science, structural biology, and machine learning to solve practical problems with biomedical and biotechnological impact. He welcomes opportunities to collaborate across academia and industry — especially where curiosity, innovation, and execution come together to push the boundaries of protein research and bio-AI applications.
