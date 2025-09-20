@@ -3,6 +3,11 @@
   {{ site.first_name }}
   {{ site.middle_name }}
   {{ site.last_name }}. {{ site.footer_text }}
+  
+  <!-- Visitor Counter - Added here -->
+  <span> | Visits: <span id="visit-counter">many</span></span>
+  <!-- End Visitor Counter -->
+  
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
@@ -28,3 +33,6 @@
     </div>
   </footer>
 {% endif %}
+
+<!-- Include the visit counter script at the very end of the file -->
+<script src="{{ '/assets/js/visit-counter.js' | relative_url }}"></script>
